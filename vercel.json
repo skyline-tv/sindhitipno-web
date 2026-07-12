@@ -7,5 +7,12 @@
         { "key": "Cache-Control", "value": "public, max-age=3600" }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/App-ads.txt",
+      "destination": "/app-ads.txt",
+      "permanent": true
+    }
   ]
 }
